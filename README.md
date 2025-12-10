@@ -1,4 +1,5 @@
-Welcome to Your App
+Welcome to Magic Match
+
 📌 Project Info
 
 This is a native, cross-platform mobile application built for iOS, Android, and the web using modern React Native tooling.
